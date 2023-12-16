@@ -307,8 +307,6 @@ class Engine:
 
 
 
-# This is being used for testing at the moment, which is why there is so much commented code.
-# Will move to a standalone testing script when I get the chance.
 if __name__=="__main__":
 
     fen = "r2qkbr1/ppp1pppp/2n1b2n/8/8/5P2/PPPP2PP/RNB1KBNR b KQq - 0 6"
