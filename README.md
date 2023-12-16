@@ -6,6 +6,7 @@ Welcome to the Chess Bot project! This is an AI-based chess bot implemented usin
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Video Demo](#videodemo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -52,6 +53,10 @@ Once the application is running, you can play chess against the bot. The interfa
 
 
 ![Screenshot 3](screenshots/3.png)
+
+## Video Demo
+
+![Video Demo](screenshots/videoDemo.mp4)
 
 ## Contributing
 
