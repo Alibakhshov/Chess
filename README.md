@@ -56,7 +56,7 @@ Once the application is running, you can play chess against the bot. The interfa
 
 ## Video Demo
 
-![Video Demo](screenshots/videoDemo.mp4)
+![Video Demo](screenshots/videoDemo.gif)
 
 ## Contributing
 
